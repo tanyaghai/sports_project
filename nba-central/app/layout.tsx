@@ -34,7 +34,7 @@ export default function RootLayout({
         </main>
         <footer className="bg-gray-800 text-white p-4 mt-8">
           <div className="container mx-auto text-center">
-            <p>© 2024 NBA Central. This is a fan-made website.</p>
+            <p>© 2024 NBA Central.</p>
           </div>
         </footer>
       </body>

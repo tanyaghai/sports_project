@@ -16,8 +16,7 @@ export default function Home() {
         <div className="relative z-10 h-full flex flex-col justify-center items-center text-white text-center bg-black/30">
           <h1 className="text-5xl font-bold mb-4">Welcome to NBA Central</h1>
           <p className="text-xl max-w-2xl">
-            Your ultimate destination for everything NBA - 
-            following the exciting journey of the world's premier basketball league.
+            A fan-made "one stop shop" for following your favorite teams around the association.
           </p>
         </div>
       </section>
