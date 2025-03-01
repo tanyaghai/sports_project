@@ -24,7 +24,8 @@ export default function RootLayout({
               <a href="/" className="hover:text-gray-200">Home</a>
               <a href="/teams" className="hover:text-gray-200">Teams</a>
               <a href="/schedule" className="hover:text-gray-200">Schedule</a>
-              <a href="/stats" className="hover:text-gray-200">Stats</a>
+              <a href="/stats" className="hover:text-gray-200">Team Stats</a>
+              <a href="/compare" className="hover:text-gray-200">Compare Teams</a>
             </div>
           </div>
         </nav>
